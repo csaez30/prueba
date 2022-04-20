@@ -50,6 +50,8 @@ public class Guerrero extends Personaje{
             case 'O':  ubicacion.modificarX(-1);
                        break;
             }
+            
+            System.out.println("hola");
         }
     }
 }
