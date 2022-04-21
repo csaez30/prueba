@@ -1,7 +1,7 @@
 
 package tp4;
 
-
+//modificaciones de ultima hora
 public class Guerrero extends Personaje{
     
     private boolean caballo;
